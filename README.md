@@ -12,6 +12,8 @@ Um sistema simples de gerenciamento de estoque desenvolvido com **HTML**, **CSS*
 
 ## **Demonstração**
 
+**[Sistema de Estoque](https://ninja1375.github.io/Sistema-de-Estoque/)**
+
 ## **Como usar**
 1. Faça o download ou clone este repositório:
    ```bash
