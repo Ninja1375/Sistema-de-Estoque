@@ -23,17 +23,17 @@ Um sistema simples de gerenciamento de estoque desenvolvido com **HTML**, **CSS*
 ```bash
 📂 Sistema-de-Estoque
 ├── index.html      # Arquivo principal do sistema
-├── style.css      # Estilos do projeto
+├── style.css       # Estilos do projeto
 ├── script.js       # Lógica e interatividade
 └── README.md       # Documentação do projeto
 ```
 ## Tecnologias utilizadas
 
-**HTML:** Estrutura do sistema.
+- **HTML:** Estrutura do sistema.
 
-**CSS:** Estilização e responsividade.
+- **CSS:** Estilização e responsividade.
 
-**JavaScript:** Manipulação de dados e interatividade.
+- **JavaScript:** Manipulação de dados e interatividade.
 
 ## Funcionalidades futuras
 
